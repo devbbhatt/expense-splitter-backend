@@ -251,11 +251,11 @@ docker run -p 8080:8080 expense-splitter-backend
 
 GitHub
 
-https://github.com/DevbBhatt
+https://github.com/devbbhatt
 
 LinkedIn
 
-https://www.linkedin.com/in/dev-bhatt-9825b12bb/
+https://www.linkedin.com/in/bhattdev/
 
 ---
 
